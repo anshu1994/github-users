@@ -1,0 +1,22 @@
+{
+  "name": "github-users",
+  "version": "1.0.0",
+  "description": "GitHub users social media",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshu1994/weather-app.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Anshuman Bhowmick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshu1994/weather-app/issues"
+  },
+  "homepage": "https://github.com/anshu1994/weather-app#readme"
+}
