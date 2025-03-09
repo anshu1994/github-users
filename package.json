@@ -2,8 +2,10 @@
   "name": "github-users",
   "version": "1.0.0",
   "description": "GitHub users social media",
-  "main": "index.html",
+  "main": "app.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -18,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/anshu1994/weather-app/issues"
   },
-  "homepage": "https://github.com/anshu1994/weather-app#readme"
+  "homepage": "https://github.com/anshu1994/weather-app#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
 }
