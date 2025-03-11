@@ -1,1 +1,2 @@
 export const headerLogoURL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa8FV8SCzjlNqk2yzFPetRZbY7j258d8-MuA&s";
+export const githubUserURL = "https://api.github.com/users/octocat/followers";

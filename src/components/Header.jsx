@@ -5,7 +5,7 @@ import { headerLogoURL } from "../utils/consts";
 const Header = ()=>{
     return (
         <div className="header">
-            <img className="header-logo" src={headerLogoURL}></img>
+            <a href="https://github.com/"><img className="header-logo" src={headerLogoURL}></img></a>
                 <ul className="header-nav-items">
                     <li>Home</li>
                     <li>All Users</li>
